@@ -274,7 +274,7 @@
 				DEVELOPMENT_TEAM = TLT6884JZ8;
 				INFOPLIST_FILE = "Effective-Objective-C/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.effective.ObjC.Effective-Objective-C";
+				PRODUCT_BUNDLE_IDENTIFIER = com.effective.ObjC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -286,7 +286,7 @@
 				DEVELOPMENT_TEAM = TLT6884JZ8;
 				INFOPLIST_FILE = "Effective-Objective-C/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.effective.ObjC.Effective-Objective-C";
+				PRODUCT_BUNDLE_IDENTIFIER = com.effective.ObjC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -310,6 +310,7 @@
 				422B0A281DF10C1F000B87E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
